@@ -2,6 +2,6 @@
 
 int main(void) {
     printf("Hello, World!\n");
-    //Copyright Christian Bravo y la ucol
+    //Copyright Christian Bravo
     return 0;
 }
