@@ -9,5 +9,6 @@ int main(void) {
     printf("Este es mi primer programa\n");
     printf("Publicado en Github\n\n");
     printf("¡Bienvenido a mi repositorio!\n");
+    printf("¡Adios!\n");
     return 0;
 }
